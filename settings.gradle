@@ -1,0 +1,4 @@
+include ':greytone'
+include ':opencv'
+include ':app'
+rootProject.name = "LibraryExporter"
